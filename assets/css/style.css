@@ -12,9 +12,13 @@ body {
 	font-weight:bold;
 	font-family:Raleway;
 }
+a {
+margin:5px;
+}
 a,a:hover {
 	-webkit-transition:color .25s linear,background-color .15s linear .1s;
 	transition:color .25s linear,background-color .15s linear .1s;
+padding: 5px;
 }
 @font-face {
   font-family: 'Raleway';
@@ -45,7 +49,7 @@ h1,.h1 {
 	text-align:left !Important;
 }
 .page-header {
-	border-bottom:0;
+	border-bottom:2px;
 	margin-bottom:25px;
 }
 .navbar-default .navbar-brand {
