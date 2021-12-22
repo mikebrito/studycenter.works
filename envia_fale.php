@@ -1,4 +1,4 @@
-<?
+<? php
 
 # alterar a variavel abaixo colocando o seu email
 
