@@ -1,6 +1,6 @@
-<? php
+<?php
 
-# alterar a variavel abaixo colocando o seu email
+$url = 'https://studycenter.works/envia_fale.php';
 
 $destinatario = "contato@studycenter.me";
 
